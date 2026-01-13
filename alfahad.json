@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "name": "beIN",
+      "icon": "beIN_SP.png",
+      "channels": [
+        {
+          "name": "beIN Sports 1",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419848.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 2",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419849.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 3",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419850.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 4",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419851.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 5",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419852.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 6",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419853.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 7",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419854.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 8",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419855.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        },
+        {
+          "name": "beIN Sports 9",
+          "icon": "beIN_SP.png",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419856.m3u8",
+            "SD": "",
+            "Low": ""
+          }
+        }
+      ]
+    },
+
+    {
+      "name": "thmanyah",
+      "icon": "thm.jpeg",
+      "channels": [
+        {
+          "name": "thmanyah 1",
+          "icon": "",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419998.m3u8",
+            "SD": "",
+            "HD": ""
+          }
+        },
+        {
+          "name": "thmanyah 2",
+          "icon": "",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/419999.m3u8",
+            "SD": "",
+            "HD": ""
+          }
+        },
+        {
+          "name": "thmanyah 3",
+          "icon": "",
+          "sources": {
+            "FHD": "http://jabaar-tv.com:80/live/4764800128/8542145179/420000.m3u8",
+            "SD": "",
+            "HD": ""
+          }
+        }
+      ]
+    }
+  ]
+}
